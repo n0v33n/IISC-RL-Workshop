@@ -1,9 +1,8 @@
+# IITH Prof
+
 SDG
-
-
 SHB and SNAG
 
-In nsag we add momementum 
+In nsag we add momementum
 
 Invex functions
-
